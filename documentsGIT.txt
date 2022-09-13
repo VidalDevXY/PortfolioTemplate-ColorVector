@@ -1,0 +1,11 @@
+============================================================
+
+    _____ FUNDAMENTOS  GIT________
+
+.COMANDOS
+
+cls: limpiar la terminal.
+
+git version: obtener la version instalada.
+
+git help: lista de comandos.

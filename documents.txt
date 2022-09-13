@@ -1,0 +1,79 @@
+https://www.youtube.com/watch?v=fCEP2vnAVz0&list=PL4mXiOgXD4Yy4N9S4JuU5X_a6ZATa3bvS&index=3&ab_channel=CrypticalCoder
+
+=============================================================================================
+
+En el tutorial de hoy, aprenderá cómo hacer un diseño de sitio web de cartera personal receptivo completo utilizando HTML CSS y Vanilla JavaScript desde cero. La plantilla de Bolby viene con un diseño limpio, todos los elementos y secciones esenciales que necesita para lanzar un currículum en línea con todas las funciones o sitios de cartera personal. Tales como: impresionante área de héroe, barras de habilidades, acerca de, servicios, cartera, tablas de precios, testimonios de clientes, blog, línea de tiempo de experiencia, opciones de contacto y enlaces sociales.
+
+Principales características *
+0) Diseño de alta calidad
+1) Construido con HTML5, CSS3 y JavaScript
+2) Diseño 100% receptivo
+3) Código limpio
+4) Código bien comentado
+5) Personalización del tema
+6) pieles de 5 colores
+7) Claro/Oscuro/Oscuro
+8) Personalización del tamaño de fuente
+
+=============================================================================================
+
+_______________  R O A D M A P _______________
+
+1.Localizar una fuente de iconos: https://cdn.lineicons.com/3.0/lineicons.css
+
+2.Localizar app slider en javascript: https://unpkg.com/swiper@7/swiper-bundle.min.js
+
+3.Localizar una fuente tipografica: @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap');
+
+4. Declarar en CSS las VARIABLES.
+
+5. Declarar en CSS los estilos de inicio BASE.
+
+6. Construir en HTML el header + el nav.
+
+7. En CSS contruir estilo de LAYOUT + HEADER + NAV
+
+8. 
+
+===============================================================================================
+
+        __ PROPIEDADES DE CSS __
+
+.overflow: si recortar contenido, dibujar barras de desplazamiento o mostrar el contenido excedente en un elemento a nivel de bloque.
+
+    overflow: visible
+    overflow: hidden
+    overflow: scroll
+    overflow: auto
+
+https://developer.mozilla.org/es/docs/Web/CSS/overflow
+
+--
+
+.z-index: manejar el eje z de las capas.
+
+https://developer.mozilla.org/es/docs/Web/CSS/CSS_Positioning/Understanding_z_index/Stacking_context_example_1
+
+--
+
+.column-gap: espacio entre columnas.
+
+https://css-tricks.com/almanac/properties/c/column-gap/
+
+--
+
+.letter-spacing: espaciado entre letras;
+
+
+============================================================================================
+
+/////////////////////////////////////////////////////
+
+        C O N S E J O S
+
+.CSS: resaltar con colores llamativos como el rojo los div cuando estemos en proceso de construccion para tener mejor vision de como estan quedando los ajustes.
+
+
+
+
+minuto 22:00
